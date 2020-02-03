@@ -15,10 +15,10 @@ num1 * num2
 end
 
 def modulo(num1, num2)
-
+num**
 end
 
 def square_root(num)
-(num)
+
 
 end
